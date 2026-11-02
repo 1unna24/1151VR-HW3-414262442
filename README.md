@@ -37,4 +37,4 @@
 ## 5. 作業繳交
 
 - GitHub Repository：**https://github.com/1unna24/1151VR-HW3-414262442**
-- YouTube 影片：**（填入 YouTube 連結）**
+- YouTube 影片：**https://youtu.be/EGH5XRCtrlk**
